@@ -8,7 +8,7 @@ Validação de Formulário, nos campos Nome, E-mail e Senha utilizando Expressõ
     <img height="700px" src="https://github.com/jvitin7/form_validator/blob/main/images/design.png">
 </a></p>
 
-https://jvitin7.github.io/calcJS/
+https://jvitin7.github.io/form_validator/
 
 
 ## Funcionalidades
