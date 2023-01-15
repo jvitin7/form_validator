@@ -123,6 +123,8 @@ h2 {
     display: inline-block;
     text-decoration: none;
     transition: 0.3s;
+    cursor: pointer;
+    margin-top: 1px;
 }
 
 .link:hover { color: var(--box-white) }
